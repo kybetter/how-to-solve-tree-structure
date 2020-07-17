@@ -8,6 +8,6 @@ Kinds of tree structure solve methods in real scene, wish to save your time.
 
 #### 内容
 
-1、[把结构A转成结构B](./methods/formatAtoB.ts)
+1、[结构转换：把结构A转成结构B](./methods/formatAtoB.ts)
 
-2、[在树中找到指定标识所在的那一个分支](./methods/getOneBranchById.ts)
+2、[剪枝：在树中找到指定标识所在的那一个分支](./methods/getOneBranchById.ts)
