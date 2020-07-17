@@ -60,7 +60,7 @@ const treeData = [
 type user = {
   id?: string,
   sex?: number,
-  children?: any,
+  children?: Array<user>,
 }
 
 /**
