@@ -9,4 +9,5 @@ Kinds of tree structure solve methods in real scene, wish to save your time.
 #### 内容
 
 1、[把A树结构转成B树结构](./methods/formatAtoB.ts)
+
 2、[在树中找到指定标识所在的那一个分支](./methods/getOneBranchById.ts)
